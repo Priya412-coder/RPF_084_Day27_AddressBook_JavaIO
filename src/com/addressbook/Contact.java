@@ -10,6 +10,7 @@ public class Contact {
 	private String zip;
 	private String state;
 
+
 	public String getFirstName() {
 		return firstName;
 	}
